@@ -1,0 +1,3 @@
+Hey, I am ingesting the data in this file
+
+in terminal to create new file ->  echo "This is another data ingestion file" > data_ingest.txt
