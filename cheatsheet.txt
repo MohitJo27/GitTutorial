@@ -30,3 +30,6 @@ git log --oneline (easy to seee)
 
 
 9. Git do not trach empty folder
+
+10. How to trach empty folder?
+just add .gitkeep file in the folder
