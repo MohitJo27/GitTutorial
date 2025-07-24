@@ -1,3 +1,5 @@
 # file contain API Key
 .env
 api_secrets.txt
+
+bronze/

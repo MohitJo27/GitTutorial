@@ -27,3 +27,6 @@ Head is the Latest Branch
 git log
 
 git log --oneline (easy to seee) 
+
+
+9. Git do not trach empty folder
