@@ -1,0 +1,29 @@
+0. To init
+git init
+
+1. to Check 
+
+git status
+
+2. Add GIT Email
+git config --global user.email "abc@gmail.com" 
+
+3. Add GIT Name
+git config --global user.name "XYz"
+
+4. Add file in Git
+git add . (To add all file)
+
+5. Add Commit the to the added file 
+git commit -m "initial commit{Any message}"
+
+6. To See the Branch
+git branch
+
+7. What is Head?
+Head is the Latest Branch
+
+8. WHAT is log (kind a History)
+git log
+
+git log --oneline (easy to seee) 
